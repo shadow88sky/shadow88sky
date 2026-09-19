@@ -1,3 +1,7 @@
+<p align="right">
+  <strong>中文</strong> · <a href="https://github.com/shadow88sky/shadow88sky/blob/main/README.en.md"><strong>English</strong></a>
+</p>
+
 <p align="center">
   <a href="http://39.102.50.88/">
     <img src="./assets/profile-banner.svg" alt="徐晨 / Chen Xu — AI、Web3 与 Web2 全栈工程师" width="100%" />
