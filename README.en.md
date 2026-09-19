@@ -22,7 +22,7 @@
   &nbsp;│&nbsp;
   <a href="http://39.102.50.88/"><strong>Portfolio</strong></a>
   &nbsp;·&nbsp;
-  <a href="http://39.102.50.88/resume.html"><strong>Résumé</strong></a>
+  <a href="http://39.102.50.88/resume-en.html"><strong>Résumé</strong></a>
   &nbsp;·&nbsp;
   <a href="mailto:119136016@qq.com?subject=Project%20Inquiry"><strong>Contact</strong></a>
 </p>
@@ -169,7 +169,7 @@ If you are building an **AI product, Web3 service, Node.js backend, SaaS platfor
 
 **Email:** [119136016@qq.com](mailto:119136016@qq.com?subject=Project%20Inquiry)<br />
 **Portfolio:** [39.102.50.88](http://39.102.50.88/)<br />
-**Résumé:** [Online Résumé](http://39.102.50.88/resume.html)
+**Résumé:** [Online Résumé](http://39.102.50.88/resume-en.html)
 
 <p align="center">
   <sub>Available for freelance projects and long-term remote collaboration.</sub>
