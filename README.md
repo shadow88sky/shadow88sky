@@ -45,6 +45,10 @@
 
 OCR-first 的发票处理应用。本地 OCR 与金额校验优先，仅在字段缺失、计算不一致或图像不清楚时调用视觉模型复核，从而兼顾成本、速度与准确性。
 
+<p align="center">
+  <a href="http://39.102.50.88/entryflow/"><img src="./assets/entryflow.png" alt="EntryFlow 发票识别、复核与报表界面" width="100%" /></a>
+</p>
+
 - PDF / 图片 OCR、中英文识别与原始文本追踪
 - 必填字段、行项目汇总、税额和总额校验
 - 重复票据检测、人工修改记录、审批与付款状态
@@ -57,6 +61,10 @@ OCR-first 的发票处理应用。本地 OCR 与金额校验优先，仅在字�
 
 面向国际市场的 GEO 产品，监测品牌在多个 AI 搜索引擎中的提及率、引用来源和竞品位置，并提供站点诊断、内容生成与持续监测。
 
+<p align="center">
+  <a href="http://39.102.50.88:8081"><img src="./assets/rankweave.jpg" alt="RankWeave AI 品牌可见度产品界面" width="100%" /></a>
+</p>
+
 - 多模型并发调度、引擎级超时、失败隔离与实时进度
 - 品牌提及、竞品 SOV、情感、内容差距和引用域名分析
 - AI Crawler、robots.txt、Schema.org、SEO 与知识图谱审计
@@ -68,6 +76,10 @@ OCR-first 的发票处理应用。本地 OCR 与金额校验优先，仅在字�
 #### AnswerDesk AI · 可配置业务客服 Agent
 
 将知识检索、字段收集、外部工具和人工接管连接为可配置流程的业务执行平台，支持网页 Widget、Telegram Bot 和 REST API。
+
+<p align="center">
+  <a href="http://39.102.50.88:8082"><img src="./assets/answerdesk.jpg" alt="AnswerDesk AI 知识库与业务工作流界面" width="100%" /></a>
+</p>
 
 - Hybrid RAG、向量与关键词检索、RRF 融合和来源追踪
 - FAQ-first、Playbook、Workflow、Structured Output 与 Tool Calling
